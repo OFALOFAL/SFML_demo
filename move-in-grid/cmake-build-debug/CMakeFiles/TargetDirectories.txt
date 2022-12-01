@@ -1,0 +1,3 @@
+C:/Users/olafl/c++learning/SFML_demo/move-in-grid/cmake-build-debug/CMakeFiles/PoruszaniePoRenderze_ALGITP.dir
+C:/Users/olafl/c++learning/SFML_demo/move-in-grid/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/olafl/c++learning/SFML_demo/move-in-grid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
